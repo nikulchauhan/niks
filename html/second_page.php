@@ -1,4 +1,4 @@
-<?php echo "cool"; echo phpinfo(); 
+<?php echo "cool"; echo phpinfo();  
 
 
 
